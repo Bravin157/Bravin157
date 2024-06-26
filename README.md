@@ -8,6 +8,14 @@ Atualmente estou estudando para me tornar um desenvolvedor Full Stack com prefer
 <img align "center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align "center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
-<div>
- ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=bravin&show_icons=true&bg_color=00000000)
-</div>
+<picture>
+ <source>
+  srcset="https://github-readme-stats.vercel.app/api?username=bravin&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+ />
+ <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bravin&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bravin&show_icons=true" />
+</picture>
