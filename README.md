@@ -9,5 +9,5 @@ Atualmente estou estudando para me tornar um desenvolvedor Full Stack com prefer
 <img align "center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 <div>
- <img align "center" alt="html5" src="![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=bravin&show_icons=true&bg_color=00000000)" />
+ <img align "center" src="![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=bravin&show_icons=true&bg_color=00000000)" />
 </div>
