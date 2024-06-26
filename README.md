@@ -10,8 +10,7 @@ Atualmente estou estudando para me tornar um desenvolvedor Full Stack com prefer
 </div>
 <picture>
  <source>
-  srcset="https://github-readme-stats.vercel.app/api?username=bravin&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
+  srcset="![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=bravin&show_icons=true&theme=radical)"
  />
  <source
     srcset="https://github-readme-stats.vercel.app/api?username=Bravin&show_icons=true"
