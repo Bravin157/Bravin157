@@ -8,7 +8,7 @@ Atualmente estou estudando para me tornar um desenvolvedor Full Stack com prefer
 <img align "center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align "center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
-
+## 📖 Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bravin157&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bravin157&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
