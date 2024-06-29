@@ -9,7 +9,6 @@ Atualmente estou estudando para me tornar um desenvolvedor Full Stack com prefer
 <img align "center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
+<div><img src="https://raw.githubusercontent.com/Bravin157/Bravin157/output/snake.svg" alt="Snake animation" /></div>
 
-<img src="https://raw.githubusercontent.com/Bravin157/Bravin157/output/snake.svg" alt="Snake animation" />
 
-###
