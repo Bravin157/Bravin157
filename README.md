@@ -15,4 +15,3 @@ Atualmente estou estudando para me tornar um desenvolvedor Full Stack com prefer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bravin157&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
