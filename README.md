@@ -8,9 +8,8 @@ Atualmente estou estudando para me tornar um desenvolvedor Full Stack com prefer
 <img align "center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align "center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
-## GitHub Stats
-<div>
-<img height="180em" scr="https://github-readme-stats.vercel.app/api?username=Bravin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-<img height="180em" scr="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bravin&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 
-</div>
+
+<img src="https://raw.githubusercontent.com/Bravin157/Bravin157/output/snake.svg" alt="Snake animation" />
+
+###
