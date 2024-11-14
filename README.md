@@ -1,5 +1,5 @@
 ## 💡 Sobre mim
-Me chamo Gustavo, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade FAESA - ES.
+Me chamo Gustavo, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade FAESA - ES.
 Atualmente estou estudando para me tornar um desenvolvedor Full Stack com preferência ao desenvolvimento Back-end.
 ## 🖥️ Tecnologias
 <div align="left">
